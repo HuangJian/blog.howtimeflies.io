@@ -34,7 +34,7 @@ link:https://github.com/HuangJian[老黄]这里把几年来接触到的措施整
 . 请及时更新服务器系统安全补丁，监控新开启端口，检查异常连接；
 . 请及时升级有安全漏洞的应用程序，给予低权限运行。
 
-link:https://github.com/HuangJian[老黄]不是专业做网络安全，很有可能文不对题、挂一漏万，敬请斧正与补充。 +
+link:https://github.com/HuangJian[老黄]不是专业做网络安全，很有可能文不对题、挂一漏万，敬请斧正与补充，请移步link:https://github.com/HuangJian/blog.howtimeflies.io/issues/1[issues]留言与讨论。 +
 
 最后link:https://github.com/HuangJian[老黄]再次疾呼：**试水远程工作的企业和员工请将信息安全重视起来，不要让中国远程工作元年成为互联网黑产的盛宴！**
 
