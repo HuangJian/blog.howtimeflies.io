@@ -24,7 +24,8 @@ link:https://github.com/HuangJian[老黄]我身为一个践行在线工作八年
 
 link:https://github.com/HuangJian[老黄]这里把几年来接触到的措施整理一下，希望能帮到一些忙：
 
-. **请架设 VPN 网络，一切对内网机器的访问必须通过 VPN，严格保持企业内外网隔离**；
+. **请聘请专业的网络安全团队/专家进行安全加固**；
+. 请架设 VPN 网络，一切对内网机器的访问必须通过 VPN，严格保持企业内外网隔离；
 . 请尽量使用更安全的 OpenVPN 协议，**远离有安全漏洞的 PPTP 协议**，避免有安全隐患的 L2TP/IPsec 协议；
 . 请尽可能不要使用 TeamViewer、向日葵、Frp 之类可以绕过 VPN 进行内网穿透的桌面共享软件；
 . 如果不得不使用 TeamViewer，请安装修复了link:http://www.cnnvd.org.cn/web/xxk/ldxqById.tag?CNNVD=CNNVD-201909-583[高危漏洞]的最新版本，**切勿安装来路不明的盗版版本**；
