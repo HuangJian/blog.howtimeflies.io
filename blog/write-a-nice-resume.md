@@ -147,3 +147,30 @@ VS
 // email
 window.atob('dXN0Yy5oakBnbWFpbC5jb20=')
 ```
+
+<div>
+<table>
+<tbody><tr>
+<td>
+<div><g-emoji class="g-emoji" alias="bulb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png">💡</g-emoji></div>
+</td>
+<td>
+读者们，你们对求职面试有什么疑问与想法吗？欢迎向我
+<a href="https://github.com/HuangJian/blog.howtimeflies.io/issues/2">“约稿”</a>。
+</td>
+</tr>
+</tbody></table>
+</div>
+
+<div>
+<table>
+<tbody><tr>
+<td>
+<div><g-emoji class="g-emoji" alias="warning" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a0.png">⚠️</g-emoji></div>
+</td>
+<td>
+未经作者允许，禁止一切形式的转载！违者自愿向作者支付稿酬人民币壹万元。
+</td>
+</tr>
+</tbody></table>
+</div>
