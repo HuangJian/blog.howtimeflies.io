@@ -6,7 +6,7 @@
 - [为团队引入「代码规范」的建议与心得](blog/introduce-code-style-to-a-team.md)
 
 ## [读书笔记／调研记录](notes/readme.md)
-- [Tailscale 的数据库技术选型与迁移：sqlite → json → etcd → sqlite](2022/Tailscale%20的数据库技术选型与迁移：sqlite%20→%20json%20→%20etcd%20→%20sqlite.md)
+- [Tailscale 的数据库技术选型与迁移：sqlite → json → etcd → sqlite](notes/2022/Tailscale%20%E7%9A%84%E6%95%B0%E6%8D%AE%E5%BA%93%E6%8A%80%E6%9C%AF%E9%80%89%E5%9E%8B%E4%B8%8E%E8%BF%81%E7%A7%BB%EF%BC%9Asqlite%20%E2%86%92%20json%20%E2%86%92%20etcd%20%E2%86%92%20sqlite.md)
 
 ## [点滴记录／有感而发](thoughts/readme.md)
 - [调教「鼠须管」输入法](thoughts/202204/20220402.md#调教鼠须管输入法)
