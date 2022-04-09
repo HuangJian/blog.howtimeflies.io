@@ -11,3 +11,6 @@
 ## [点滴记录／有感而发](thoughts/readme.md)
 - [调教「鼠须管」输入法](thoughts/202204/20220402.md#调教鼠须管输入法)
 - [吹捧「远程办公」的硅谷巨头，背地里却在偷偷买楼](thoughts/202203/20220316.md#吹捧远程办公的硅谷巨头背地里却在偷偷买楼httpwwwgeekparknetnews299639)
+- [Covid-19 台湾模式](thoughts/202204/20220408.md#covid-19-%E5%8F%B0%E6%B9%BE%E6%A8%A1%E5%BC%8F)
+
+[更多……](thoughts/readme.md)
