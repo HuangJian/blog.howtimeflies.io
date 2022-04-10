@@ -1,7 +1,7 @@
 # 中国疾控中心：COVID-19的临床病例与疫苗接种关联度分析
 
 ## 原文链接
-- [Preplanned Studies: Association of COVID-19 Vaccination and Clinical Severity of Patients Infected with Delta or Omicron Variants — China, May 21, 2021–February 28, 2022](https://weekly.chinacdc.cn/en/article/doi/10.46234/ccdcw2022.074) 2021-04-08
+- [Preplanned Studies: Association of COVID-19 Vaccination and Clinical Severity of Patients Infected with Delta or Omicron Variants — China, May 21, 2021–February 28, 2022](https://weekly.chinacdc.cn/en/article/doi/10.46234/ccdcw2022.074) 2022-04-08
 
 ## 要点：
 > - 2021-05-21 至 2022-02-28 间，国内共确诊 10829 例。其中 Delta 8675 例，Omicron 2154 例。
