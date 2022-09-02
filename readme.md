@@ -4,6 +4,7 @@
 - [一个创始团伙关于股权激励争锋的故事](blog/一个创始团伙关于股权激励争锋的故事.md)
 - [为团队引入「代码规范」的建议与心得](blog/introduce-code-style-to-a-team.md)
 - [写一份让人眼前一亮的技术人简历](blog/write-a-nice-resume.md)
+- [蔚来汽车应聘总结: 高职薪招揽，低职薪 offer](blog/蔚来汽车应聘总结:%20高职薪招揽，低职薪%20offer.md) - [2022年9月]
 - [远程工作小贴士 No. 1: 请关注企业信息安全](blog/remote-tips-security.adoc)
 
 [更多……](blog/readme.md)
