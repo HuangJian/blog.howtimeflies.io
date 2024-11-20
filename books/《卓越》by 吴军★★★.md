@@ -6,7 +6,7 @@
 - [EPUB 电子书](https://github.com/user-attachments/files/17824378/epub.zip)
 
 ## 振聋发聩
-**教育真正的目的，就是通过知识是人获得自由。**
+**教育真正的目的，就是通过知识使人获得自由。**
 
 ## 心得感受
 
